@@ -1,5 +1,5 @@
 {
-  "name": "sample",
+  "name": "NodeServer",
   "version": "1.0.0",
   "description": "nodeJs sample package",
   "main": "index.js",
